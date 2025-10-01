@@ -1,0 +1,637 @@
+{
+  "originUrl": "https://developer.adobe.com",
+  "aborted": false,
+  "lastCrawled": "https://developer.adobe.com/photoshop/",
+  "urls": [
+    {
+      "url": "https://developer.adobe.com/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "56da32dc77ccb16a9ad316b9a2a662d16972ba77"
+    },
+    {
+      "url": "https://developer.adobe.com/analytics-apis/docs/2.0",
+      "source": "CRAWL",
+      "targetPath": "/analytics-apis/docs/2-0",
+      "id": "1397531348105201f2d46422605d650a0f4705cf"
+    },
+    {
+      "url": "https://developer.adobe.com/analytics-apis/docs/2.0/",
+      "source": "CRAWL",
+      "targetPath": "/analytics-apis/docs/2-0",
+      "id": "45406b81e74743f119a434c0191b6f73353b1eb8"
+    },
+    {
+      "url": "https://developer.adobe.com/apis",
+      "source": "CRAWL",
+      "targetPath": "/apis",
+      "id": "59e9b74bedaae9ffe1ae28f9156d47644778ce81"
+    },
+    {
+      "url": "https://developer.adobe.com/apis/",
+      "source": "CRAWL",
+      "targetPath": "/apis",
+      "id": "34449c09411b282e7933eaed7f758d6d6a8ca949"
+    },
+    {
+      "url": "https://developer.adobe.com/app-builder/",
+      "source": "CRAWL",
+      "targetPath": "/app-builder",
+      "id": "20e2b8cf702e23669d15919d4990e8a5fc3c7591"
+    },
+    {
+      "url": "https://developer.adobe.com/commerce/",
+      "source": "CRAWL",
+      "targetPath": "/commerce",
+      "id": "510f8cfdaf439ea435936a6cba913b1012297304"
+    },
+    {
+      "url": "https://developer.adobe.com/compliance/",
+      "source": "CRAWL",
+      "targetPath": "/compliance",
+      "id": "c7b25684f45a90d9678fd9990dc4a8e88a8272b3"
+    },
+    {
+      "url": "https://developer.adobe.com/cpp/",
+      "source": "CRAWL",
+      "targetPath": "/cpp",
+      "id": "0f01990659018353b91d6140a16a606a82e84ba1"
+    },
+    {
+      "url": "https://developer.adobe.com/creative-cloud",
+      "source": "CRAWL",
+      "targetPath": "/creative-cloud",
+      "id": "aaa074cfcb96c0cc30eca7e8609dfa0559deca33"
+    },
+    {
+      "url": "https://developer.adobe.com/creative-cloud/",
+      "source": "CRAWL",
+      "targetPath": "/creative-cloud",
+      "id": "8acb3eac2898d6adf839466bd0d978aecb4bd628"
+    },
+    {
+      "url": "https://developer.adobe.com/developer-console/",
+      "source": "CRAWL",
+      "targetPath": "/developer-console",
+      "id": "15b8f4eae868190c64efed38cf17572fecb226b8"
+    },
+    {
+      "url": "https://developer.adobe.com/developer-distribution/",
+      "source": "CRAWL",
+      "targetPath": "/developer-distribution",
+      "id": "e2db481ffe0e64460e25ce59ab9e2a6c9994cff6"
+    },
+    {
+      "url": "https://developer.adobe.com/developer-support",
+      "source": "CRAWL",
+      "targetPath": "/developer-support",
+      "id": "b9f23ff014313513cba0881f339a9b9fa43347f9"
+    },
+    {
+      "url": "https://developer.adobe.com/developer-support/",
+      "source": "CRAWL",
+      "targetPath": "/developer-support",
+      "id": "18f63fb7bcb9c9d77c1e01bef56ec3a2e690b7b0"
+    },
+    {
+      "url": "https://developer.adobe.com/document-services/apis/pdf-embed/",
+      "source": "CRAWL",
+      "targetPath": "/document-services/apis/pdf-embed",
+      "id": "5ee70b9275a1be98682655d6025c15ca9798559a"
+    },
+    {
+      "url": "https://developer.adobe.com/document-services/homepage",
+      "source": "CRAWL",
+      "targetPath": "/document-services/homepage",
+      "id": "81fc5d2a3922b5c17dd1446b876dfad5ab1c8163"
+    },
+    {
+      "url": "https://developer.adobe.com/experience-cloud/cloud-manager",
+      "source": "CRAWL",
+      "targetPath": "/experience-cloud/cloud-manager",
+      "id": "b237234563f4f2a3ac2459ec6bd272bdbcd57bb4"
+    },
+    {
+      "url": "https://developer.adobe.com/experience-platform-apis",
+      "source": "CRAWL",
+      "targetPath": "/experience-platform-apis",
+      "id": "08e1d6620b284a8fddd281f05e3b3fbdf6c475aa"
+    },
+    {
+      "url": "https://developer.adobe.com/experience-platform-apis/",
+      "source": "CRAWL",
+      "targetPath": "/experience-platform-apis",
+      "id": "401ab7cf81bcbaa9cc266c9f2924c5fd4c2e098e"
+    },
+    {
+      "url": "https://developer.adobe.com/express/",
+      "source": "CRAWL",
+      "targetPath": "/express",
+      "id": "33284884b3b4ac9acb811b6ba6668cedcac27323"
+    },
+    {
+      "url": "https://developer.adobe.com/express/add-ons/",
+      "source": "CRAWL",
+      "targetPath": "/express/add-ons",
+      "id": "6fe0896155d09ee17454022ebc464587c20e4533"
+    },
+    {
+      "url": "https://developer.adobe.com/firefly-services/docs/guides/",
+      "source": "CRAWL",
+      "targetPath": "/firefly-services/docs/guides",
+      "id": "35f17941bf7967393820b24a22bf1594247acc6a"
+    },
+    {
+      "url": "https://developer.adobe.com/news",
+      "source": "CRAWL",
+      "targetPath": "/news",
+      "id": "e95546a47d12f1daeb058a34afe486792ddc8bba"
+    },
+    {
+      "url": "https://developer.adobe.com/open",
+      "source": "CRAWL",
+      "targetPath": "/open",
+      "id": "e614cd2cd41141c23caa7df210247cff7806f632"
+    },
+    {
+      "url": "https://developer.adobe.com/open/",
+      "source": "CRAWL",
+      "targetPath": "/open",
+      "id": "087ded30fddd7c5b0944f05e01a66d4ee8f58cd0"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop",
+      "id": "b51c181f067eb3ba2cfa6ede14587e1a936b9a6a"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2021/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2021",
+      "id": "3a4a0060d49a6403bbbdff9c2a3758f028bc5ae3"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022",
+      "id": "9eba6c87c46f9c4413e878640d26506fc2d1ae57"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/community/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/community",
+      "id": "e2ffe5a018eb1f2b293e38a4cc8a3397c7364294"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/design/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/design",
+      "id": "a4c116db6a79a954a3fa9fc71efef011e42a33a9"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/design/user-interface/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/design/user-interface",
+      "id": "ae3f58760cf02e60631244fd485e5a75282c4d6c"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides",
+      "id": "8356d2980fb19779fe0c3fe7cd318fc50800cd3d"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/code_samples/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/code-samples",
+      "id": "599762422c5d44120bd18663104bfc4edfa88f73"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/debugging/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/debugging",
+      "id": "1bc200e737fcc4d295538e505ab3d8cba85b9ff7"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/devtool/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/devtool",
+      "id": "f70ada6b0ce9755ae46476b9b8cbf51f32a16083"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/devtool/installation/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/devtool/installation",
+      "id": "6c5f32f45e23ff2267d674f9e480e34d2e5ddd02"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/devtool/plugin-management/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/devtool/plugin-management",
+      "id": "1bd5b7a127376d349d4edacbbf5c5d8d67d8e061"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/devtool/plugin-workflows/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/devtool/plugin-workflows",
+      "id": "b0c6eb9c6f289e40ff60a644616e0cf1873575cc"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/devtool/udt-walkthrough/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/devtool/udt-walkthrough",
+      "id": "15796fab1cb464710eb72978d7fb0560fc369802"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/devtool/working-with-react/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/devtool/working-with-react",
+      "id": "8770757ad78b840b67da008339bf0ea06227f8fc"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/distribution/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/distribution",
+      "id": "baf1f5d2603fe7aff4bca9719c92bdaf63805779"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/distribution/distribution-options/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/distribution/distribution-options",
+      "id": "351a79913053fe805a6249db6eaa12d5bbc9f0e4"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/distribution/packaging-your-plugin/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/distribution/packaging-your-plugin",
+      "id": "e583a290b71f66e10ff81a12a12938f35df329cd"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/getting-started/creating-your-first-plugin/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/getting-started/creating-your-first-plugin",
+      "id": "0cfc9bbe6155c45dea47a14b55a63b0af85a4f14"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/getting-started/editing-the-document/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/getting-started/editing-the-document",
+      "id": "bbde5c4bc690cffe4189a0cd5272719fa37848a5"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/getting-started/writing-a-file/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/getting-started/writing-a-file",
+      "id": "03b4a75f0e95c843bfe34b6458951a9eb3bdacaf"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/how-to/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/how-to",
+      "id": "c0ef0152bef4b0eb2a1ce1e7dde4eead2387f3f8"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/hybrid-plugins/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/hybrid-plugins",
+      "id": "dc1cf02dc5ef58a8ba1d99f7719de68d48f94d07"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/hybrid-plugins/distribute/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/hybrid-plugins/distribute",
+      "id": "be807ab0029b6227e486a6a2088afbadb562ddbb"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/hybrid-plugins/faqs/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/hybrid-plugins/faqs",
+      "id": "d10c707ef0362d53fb13ac47da7c3a4f2b28baff"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/hybrid-plugins/getting-started/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/hybrid-plugins/getting-started",
+      "id": "ef089e42f811e31e4204d0c3448203534d5df8b8"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/legacy-extensibility/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/legacy-extensibility",
+      "id": "5ae2e636d9a1dbd2997e4c01ba777b542b735e7d"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/theme-awareness/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/theme-awareness",
+      "id": "7b2d6a65b06f6da4dd1677aa1e9f7dcbc983991e"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_for_you/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-for-you",
+      "id": "3c09781ab9cdf2f3d2494d6dec97474e6597fd15"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_for_you/uxp_for_cep_devs/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-for-you/uxp-for-cep-devs",
+      "id": "2d437eba663871acfdba088ca64635734ceed277"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_for_you/uxp_for_extendscript_devs/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-for-you/uxp-for-extendscript-devs",
+      "id": "46415b365a0fec8783cf7d4b1d5dd2edadaa68d1"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_for_you/uxp_for_newbies/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-for-you/uxp-for-newbies",
+      "id": "3d7619cb33230aa0d4a2d54e86f114e16e431b97"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_for_you/uxp_for_web_devs/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-for-you/uxp-for-web-devs",
+      "id": "e5d8b96f38b46bd518fe9b8133d05f2a30458cfe"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_for_you/uxp_for_xd_devs/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-for-you/uxp-for-xd-devs",
+      "id": "9311d214b1188167c5b449634389176751e1f06e"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_guide/uxp-misc/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-guide/uxp-misc",
+      "id": "de841c3dbad50210a837e6d582172d7af1be8c7a"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_guide/uxp-misc/file-access/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-guide/uxp-misc/file-access",
+      "id": "4be47879e3c5c6687c6098b469ef4de8134a0b45"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_guide/uxp-misc/flyout-menus/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-guide/uxp-misc/flyout-menus",
+      "id": "f61cfcbc0520255f158c6020fc54cc1c613f64ef"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_guide/uxp-misc/localization-and-platforms/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-guide/uxp-misc/localization-and-platforms",
+      "id": "11b66d5af339dc364332bace6ea3eb6d78c8cd5b"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_guide/uxp-misc/manifest-v4/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-guide/uxp-misc/manifest-v4",
+      "id": "e719d160c4623f44abe47fd36b7f7529d42db065"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_guide/uxp-misc/manifest-v4/photoshop-manifest/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-guide/uxp-misc/manifest-v4/photoshop-manifest",
+      "id": "36e1ada5b0d9141ee96dbb6307a070444301c690"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_guide/uxp-misc/manifest-v5/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-guide/uxp-misc/manifest-v5",
+      "id": "45f085dd32f3f0c8094b4ca5303d5b378c63ab11"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_guide/uxp-misc/network-io/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-guide/uxp-misc/network-io",
+      "id": "8e0458842fcd07cea16a5f11809ab767abd4cc0b"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_guide/uxp-misc/plugin-icons/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-guide/uxp-misc/plugin-icons",
+      "id": "ec36cae097ee688ce4cc4b8505e43354a3d2668e"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_guide/uxp-misc/spectrum-css/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-guide/uxp-misc/spectrum-css",
+      "id": "e6626e504ff7aad50cd99c14f339e9449f76edba"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_guide/uxp-misc/uxp-toolchain/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/guides/uxp-guide/uxp-misc/uxp-toolchain",
+      "id": "e5648e2e2abfe3dd07896eb89ec469d26ae10b46"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference",
+      "id": "9debcd8316616330949de67de96f19ad1ffd581f"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/changelog/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/changelog",
+      "id": "86480bdbddf33b34340218b36a48aa975cab10b7"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/classes/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/classes",
+      "id": "96572d0d6f4c7f7ffef54182a5c9fef937307d82"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/classes/action/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/classes/action",
+      "id": "5dda76b26f46503e0a451132deaf6af1694dc4ee"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/classes/actionset/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/classes/actionset",
+      "id": "1aa8d9363d2005ad07682935629f3a5e8dab00cd"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/classes/channel/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/classes/channel",
+      "id": "a0a1cb9435541814732b2f5fe75046b0c3d74075"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/classes/channels/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/classes/channels",
+      "id": "d17f459dc09d64b0d6d4c3b2db08d0b7b8b16ee3"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/classes/colorsampler/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/classes/colorsampler",
+      "id": "2c3819ba866edb809b89c860e56c5e755c589b26"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/classes/colorsamplers/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/classes/colorsamplers",
+      "id": "2d5ef4052efec31f2c79208f9feb0c7a47a8afdf"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/classes/countitem/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/classes/countitem",
+      "id": "89908db6130a07add2699530795c0f15cb07cef0"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/classes/countitems/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/classes/countitems",
+      "id": "fc95e02fb6295ff5cf8541677d14c64133477241"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/classes/document/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/classes/document",
+      "id": "8834b80c5d8ad407eac5037dd4ac302084473107"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/classes/documents/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/classes/documents",
+      "id": "94ef0d7a048ad25d9d21e29d547eaa7ee568a124"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/classes/guide/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/classes/guide",
+      "id": "60a8fd75d3a2d9b622535aae4d8c414f854698c0"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/media/batchplay/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/media/batchplay",
+      "id": "ac0c5dff5e9bc4e56f70c59dbdf700c094ae8d07"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/media/cpp-pluginsdk/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/media/cpp-pluginsdk",
+      "id": "085cec84dad7e67a000fd56014029d7f234ae3b8"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/ps_reference/media/executeasmodal/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/ps-reference/media/executeasmodal",
+      "id": "f5457c3dd834703a7fcd5ff12eae18331803c52f"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/scripting/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/scripting",
+      "id": "449646e56b371c97507e552f45337c8a515948de"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/scripting/getting-started/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/scripting/getting-started",
+      "id": "69fe9e653150e582075429aeb03daf0a4c68c66b"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/scripting/how-it-works/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/scripting/how-it-works",
+      "id": "b08e8cf0928ca9829205e95963a63e63fdc64264"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/scripting/reference/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/scripting/reference",
+      "id": "e2330271793e1f01ccc6259c7ca5dcb6776bbef2"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/scripting/samples/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/scripting/samples",
+      "id": "2b4495dc2035084bf81f9a4679750a51b28201ee"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/2022/uxp-api/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/2022/uxp-api",
+      "id": "efceee23b812acc729e236cc5f97a5f5e3ee7511"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/guides/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/guides",
+      "id": "0c350c3aafc110085555a185b4f6a35a0561a7e5"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/guides/hybrid-plugins",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/guides/hybrid-plugins",
+      "id": "12daa230fc8c51bcfd5b22f5c789d4f1db3b259a"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/ps_reference/media/cpp-pluginsdk/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/ps-reference/media/cpp-pluginsdk",
+      "id": "f6fb7215facbc7d80419064662c515a3243f8ecd"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/uxp/scripting/",
+      "source": "CRAWL",
+      "targetPath": "/photoshop/uxp/scripting",
+      "id": "0e10ae18339cc3fc87a59fe1bc4f2e3162afaf52"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://developer.adobe.com/firefly-services/",
+      "status": "301 redirect Redirect: https://business.adobe.com/products/firefly-business/firefly-services.html"
+    },
+    {
+      "url": "https://developer.adobe.com/console/downloads",
+      "status": "301 redirect Redirect: https://console.adobe.io"
+    },
+    {
+      "url": "https://developer.adobe.com/app-builder",
+      "status": "301 redirect Redirect: https://developer.adobe.com/app-builder/"
+    },
+    {
+      "url": "https://developer.adobe.com/developer-console",
+      "status": "301 redirect Redirect: https://developer.adobe.com/developer-console/"
+    },
+    {
+      "url": "https://developer.adobe.com/photoshop/api/",
+      "status": "301 redirect Redirect: https://developer.adobe.com/firefly-services/"
+    },
+    {
+      "url": "https://developer.adobe.com/developer-console/docs/guides/authentication",
+      "status": "404 Not Found"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":5,\"E_404\":1}",
+  "error": null
+}
